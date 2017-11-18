@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Flasky
 ======
 
@@ -9,3 +10,7 @@ For Readers of the First Edition of the Book
 --------------------------------------------
 
 The code examples for the first edition of the book were moved to a different repository: [https://github.com/miguelgrinberg/flasky-first-edition](https://github.com/miguelgrinberg/flasky-first-edition).
+=======
+# rpi-ODQS
+Online database query system for multiple raspberry pi 3
+>>>>>>> d0fbb1f7f24f59979ac3236df6d210b260a1512a
